@@ -34,6 +34,7 @@ export function Footer() {
             <a href="#process" className="text-sm text-base/70 transition-colors hover:text-gold">Process</a>
             <a href="#pricing" className="text-sm text-base/70 transition-colors hover:text-gold">Pricing</a>
             <a href="#work" className="text-sm text-base/70 transition-colors hover:text-gold">Work</a>
+            <a href="/blog" className="text-sm text-base/70 transition-colors hover:text-gold">Blog</a>
             <a href="#contact" className="text-sm text-base/70 transition-colors hover:text-gold">Contact</a>
           </nav>
         </Reveal>
