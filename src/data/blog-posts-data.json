@@ -1,0 +1,322 @@
+[
+  {
+    "slug": "custom-software-development-cost-sri-lanka",
+    "title": "How Much Does Custom Software Development Cost in Sri Lanka? A Practical Guide",
+    "category": "Software Development",
+    "excerpt": "A straightforward look at what actually drives the cost of a custom software project, so you can budget with confidence instead of guessing.",
+    "seoDescription": "What drives custom software development costs in Sri Lanka — scope, complexity, integrations and timeline — explained by ARTIXO ONE, a Mannar-based software studio.",
+    "tags": ["Software Development", "Pricing", "Sri Lanka"],
+    "readingTime": "6 min read",
+    "publishedAt": "2026-09-21",
+    "sections": [
+      {
+        "heading": "Why \"how much does software cost\" rarely has a one-line answer",
+        "body": "Every founder asks this question early, and every honest studio gives the same first answer: it depends. Not because pricing is a secret, but because \"software\" covers everything from a single-screen booking tool to a multi-tenant platform with payments, roles and reporting built in. The real question worth asking is what specifically your business needs the software to do in its first six months — because that scope, more than anything else, is what sets the number."
+      },
+      {
+        "heading": "The factors that actually move the price",
+        "body": "Four things consistently decide where a project lands on the budget spectrum: the number of distinct user roles (a customer-facing app is simpler than one serving customers, staff and admins differently), the number of external integrations (payment gateways, SMS, accounting software, hardware like POS printers or barcode scanners each add real engineering time), whether the platform needs to work offline or sync across devices, and how much custom design versus ready-made UI components it needs. Two apps that sound similar in a one-paragraph pitch can differ by multiples once these are accounted for."
+      },
+      {
+        "heading": "Fixed quote vs. phased build",
+        "body": "For a well-defined project — a POS system, a booking app, a company website with an admin panel — a fixed quote after a scoping call is usually possible and is what most Sri Lankan small and medium businesses prefer, since it removes budget uncertainty. For a genuinely new product idea where nobody yet knows exactly what version one should include, a phased build (a smaller first release, tested with real users, followed by funded next phases) protects you from paying for features nobody ends up using. Neither approach is universally better — it depends on how proven the idea already is."
+      },
+      {
+        "heading": "What tends to blow budgets, and how to avoid it",
+        "body": "The most common cause of cost overruns isn't bad estimating — it's scope drift after the quote is agreed: \"can we also add...\" requests that each sound small individually but add up. The fix is not to say no to good ideas, but to log them as a clearly priced phase two rather than folding them into phase one silently. A studio that writes down what's in scope and what isn't, before work starts, is protecting your budget as much as its own."
+      },
+      {
+        "heading": "How ARTIXO ONE approaches quoting",
+        "body": "We scope every project through a short discovery conversation first — what the software needs to do, who uses it, what it needs to connect to — and then provide a written quotation with the deliverables spelled out, the same way we did for our own Glass Flow POS and ARTIXO STORE builds. If you're trying to figure out roughly where your idea sits on the cost spectrum before committing to anything, that conversation costs nothing and usually clarifies the picture within a day."
+      }
+    ]
+  },
+  {
+    "slug": "modern-pos-systems-retail-wholesale-sri-lanka",
+    "title": "Why Retail and Wholesale Businesses in Sri Lanka Are Switching to Modern POS Systems",
+    "category": "Retail & Wholesale",
+    "excerpt": "Cash registers and spreadsheet-based stock tracking are quietly costing retail and wholesale businesses more than a proper POS system would.",
+    "seoDescription": "Why retail and wholesale businesses in Sri Lanka are moving from manual billing to modern POS systems — stock accuracy, speed at the counter, and daily reporting.",
+    "tags": ["POS", "Retail", "Wholesale", "Sri Lanka"],
+    "readingTime": "5 min read",
+    "publishedAt": "2026-09-21",
+    "sections": [
+      {
+        "heading": "The hidden cost of \"it's working fine\"",
+        "body": "Most shops and wholesale counters that still use a manual cash register or a basic billing app aren't in obvious pain — sales still happen, receipts still print. What's invisible is the cost sitting underneath: stock counts that drift from reality within weeks, no clean picture of which products actually move, and end-of-day totals that take a staff member half an hour to reconcile by hand. None of that shows up as a single dramatic problem, which is exactly why it goes unaddressed for years."
+      },
+      {
+        "heading": "What a modern POS actually changes day to day",
+        "body": "The practical difference shows up at three points: at the counter, checkout is faster because items, prices and stock deduction happen in one action instead of three; at the back office, the owner can see today's sales, best-selling items and low-stock alerts without asking anyone; and at month-end, reconciliation is a report you open, not a spreadsheet you rebuild. For a wholesale business specifically, batch pricing (different rates for bulk buyers) and multi-location stock visibility are the two features that manual systems simply can't do well."
+      },
+      {
+        "heading": "Cloud vs. local — which matters for a Sri Lankan business",
+        "body": "A cloud-connected POS means your sales data is backed up automatically and viewable from your phone even when you're not at the shop, which matters for owners running more than one location or checking in while traveling. It does mean thinking about internet reliability at the counter — a well-built POS should keep working and queue transactions locally if the connection drops, then sync once it's back, rather than stopping sales entirely."
+      },
+      {
+        "heading": "What to look for before switching",
+        "body": "Three questions are worth asking any POS vendor before committing: can it handle the specific pricing structure your business uses (wholesale tiers, promotions, weight-based items)? What happens to your data if you ever want to leave — is it exportable, or locked in? And is support actually reachable when the counter is busy and something isn't working, not just during a sales call. A glassmorphism interface or a modern look matters far less than these three answered honestly."
+      },
+      {
+        "heading": "How ARTIXO ONE approaches POS builds",
+        "body": "Glass Flow POS, our own point-of-sale product, grew directly out of exactly this kind of gap — a wholesale food city client needed real batch pricing and daily reporting a generic off-the-shelf tool couldn't give them, built with a modern glassmorphism interface that stays fast at the counter. If your current setup is technically working but you're doing too much of the thinking it should be doing for you, that's usually the sign it's time for a proper look at what a modern POS would change."
+      }
+    ]
+  },
+  {
+    "slug": "why-ui-ux-design-is-a-business-investment",
+    "title": "Why Good UI/UX Design Is a Business Investment, Not a Design Expense",
+    "category": "UI/UX Design",
+    "excerpt": "Treating design as decoration is one of the most common — and most expensive — mistakes a growing software product can make.",
+    "seoDescription": "Why UI/UX design should be budgeted as a growth investment rather than a cosmetic line item, explained with practical signs your product needs design attention.",
+    "tags": ["UI/UX Design", "Product Design"],
+    "readingTime": "5 min read",
+    "publishedAt": null,
+    "sections": [
+      {
+        "heading": "\"It works, we'll fix the design later\" is a costly plan",
+        "body": "It's a common sequence: build the functionality first, worry about how it looks once there's budget for it. The problem is that by the time a product has real users, its interface patterns are already baked into how people use it — retrofitting good UX later means re-teaching existing users while also trying to convert new ones, at the same time. Design debt compounds the same way technical debt does."
+      },
+      {
+        "heading": "What UX actually affects, in numbers business owners care about",
+        "body": "Good UX isn't about looking polished for its own sake — it directly affects conversion (how many visitors become customers), retention (whether people come back), and support cost (a confusing interface generates support tickets that a clear one doesn't). A checkout flow with one unnecessary extra step measurably loses sales. A dashboard that buries the one number a user checks daily gets abandoned for a spreadsheet. These are business metrics wearing a design problem's clothes."
+      },
+      {
+        "heading": "Signs your product needs design attention now",
+        "body": "A few honest signals: your own team needs to explain how to use a screen to new users verbally, support tickets repeat the same \"how do I...\" questions, users complete a task but take a visibly roundabout path to do it, or you've added features faster than you've organized where they live in the interface. None of these require a full redesign to fix — often a focused pass on the two or three highest-traffic screens delivers most of the benefit."
+      },
+      {
+        "heading": "Design and development aren't sequential — they're parallel",
+        "body": "The healthiest way to run a project is to design and build alongside each other, with design staying one step ahead: wireframes and flows validated before engineering commits to them, so nobody spends weeks building a screen that then needs restructuring. This is slower to start than \"just build it\" but consistently faster to finish, because it avoids the expensive rework loop."
+      },
+      {
+        "heading": "How ARTIXO ONE builds design into every project",
+        "body": "Every product we build — from Glass Flow POS's glassmorphism interface to ARTIXO STORE's seller and buyer flows — starts with UI/UX design as a defined phase, not an afterthought layered on top of finished engineering. If your product already exists and something about it just doesn't feel right to use, that's usually a specific, fixable design problem rather than a reason to start over."
+      }
+    ]
+  },
+  {
+    "slug": "cloud-migration-roadmap-for-growing-businesses",
+    "title": "Migrating Your Business to the Cloud: A Practical Roadmap for Growing Companies",
+    "category": "Cloud Solutions",
+    "excerpt": "Cloud migration doesn't have to mean a risky all-at-once switch — a staged roadmap gets you there with far less disruption.",
+    "seoDescription": "A practical, staged roadmap for migrating a growing business to the cloud — what to move first, what to test, and how to avoid downtime.",
+    "tags": ["Cloud Solutions", "Infrastructure"],
+    "readingTime": "6 min read",
+    "publishedAt": null,
+    "sections": [
+      {
+        "heading": "Why \"move everything to the cloud\" is the wrong first step",
+        "body": "Cloud migration projects that try to move an entire system in one go tend to be the ones that stall, go over budget, or cause an outage that damages trust in the whole idea. A staged approach — moving the parts that benefit most first, proving stability, then continuing — nearly always outperforms a big-bang cutover, both in risk and in how quickly the business starts seeing benefits."
+      },
+      {
+        "heading": "Stage one: what should move first",
+        "body": "The best early candidates are usually backups and file storage (low risk, immediate benefit of not depending on a single physical machine), and any reporting or analytics workload that's currently slowing down a local server. These moves prove the cloud setup works without touching anything customer-facing, and build the internal confidence needed for the next stage."
+      },
+      {
+        "heading": "Stage two: the operational core",
+        "body": "Once the low-risk pieces are stable, the operational systems — your main application, database, and anything customers directly interact with — can migrate with a proper cutover plan: a maintenance window, a tested rollback path, and monitoring in place before go-live, not after. This is also the stage where you decide on architecture questions that matter long-term, like whether the system needs to run in more than one region."
+      },
+      {
+        "heading": "The mistake that costs the most after migration",
+        "body": "Migrating to the cloud and then running it exactly like a fixed physical server — one machine sized for peak load, running 24/7 regardless of actual usage — throws away most of the cost benefit of moving in the first place. The real gain comes from scaling resources to match actual demand, which requires the system to be built (or adjusted) to support that from the start."
+      },
+      {
+        "heading": "How ARTIXO ONE plans a migration",
+        "body": "We map out a company's current systems and dependencies before recommending a sequence, prioritizing what removes the most risk fastest, and using the same PostgreSQL and Supabase-based architecture we've built ARTIXO STORE and other platforms on, so the transition is grounded in tooling we already run in production. If your business is still weighing whether now is the right time to move, that assessment conversation is a useful place to start regardless of when you actually migrate."
+      }
+    ]
+  },
+  {
+    "slug": "native-vs-cross-platform-mobile-apps",
+    "title": "Native vs Cross-Platform: Choosing the Right Mobile App Approach for Your Business",
+    "category": "Mobile App Development",
+    "excerpt": "The native-vs-cross-platform decision gets treated as a technical detail, but it's really a business decision with real budget and timeline consequences.",
+    "seoDescription": "Native vs cross-platform mobile app development explained in plain business terms — cost, timeline, performance, and which businesses should choose which.",
+    "tags": ["Mobile App Development", "iOS", "Android"],
+    "readingTime": "5 min read",
+    "publishedAt": null,
+    "sections": [
+      {
+        "heading": "The question underneath the question",
+        "body": "\"Should we build native or cross-platform?\" is really asking: how much does it matter that our app feels perfectly native on each device, versus how much does it matter that we launch on both iOS and Android quickly and keep them in sync going forward? Answer that underlying question honestly, and the technical choice mostly follows."
+      },
+      {
+        "heading": "When cross-platform is the right call",
+        "body": "For most business apps — a booking platform, a service marketplace, an internal operations tool, an app like Wheelo connecting riders and drivers — cross-platform frameworks like Flutter deliver a genuinely good user experience while letting one codebase serve both iOS and Android. This roughly halves ongoing maintenance effort, since a bug fix or new feature ships to both platforms from a single change rather than two."
+      },
+      {
+        "heading": "When native still wins",
+        "body": "Apps that lean heavily on device-specific capabilities — advanced camera processing, complex animations tied to platform-specific gestures, or deep integration with the latest OS features on day one — still benefit from native development. This is a smaller slice of business apps than it used to be, as cross-platform tooling has closed most of the gap, but it's not zero."
+      },
+      {
+        "heading": "The cost difference is bigger than most people expect",
+        "body": "Building native means effectively building two separate apps with two separate codebases, which roughly doubles both the initial build cost and every future maintenance cycle. For a growing business watching runway, that difference over two to three years is usually the deciding factor once it's laid out clearly — which is why it's worth asking for a real cost comparison rather than choosing based on a general preference."
+      },
+      {
+        "heading": "How ARTIXO ONE decides with each client",
+        "body": "We walk through the actual feature list with a client before recommending an approach, because the right answer genuinely differs by project — it's why we've built cross-platform products like Wheelo where speed-to-market and shared codebase mattered most, while scoping other work natively where the requirements called for it. If you're stuck on this decision, describing what the app actually needs to do (not what platform you assume it should use) is the fastest way to get a clear answer."
+      }
+    ]
+  },
+  {
+    "slug": "brand-identity-that-grows-your-business",
+    "title": "Building a Brand Identity That Actually Grows Your Business",
+    "category": "Brand Design",
+    "excerpt": "A logo isn't a brand identity — and confusing the two is why so many rebrands change how a business looks without changing how it performs.",
+    "seoDescription": "What a real brand identity system includes beyond a logo, and how a consistent identity across channels supports business growth, not just appearance.",
+    "tags": ["Brand Design", "Identity"],
+    "readingTime": "5 min read",
+    "publishedAt": null,
+    "sections": [
+      {
+        "heading": "A logo is the smallest part of a brand identity",
+        "body": "Ask most business owners what a rebrand involves and they'll describe a new logo. A logo is one visible output of a brand identity — the actual system underneath includes typography, a colour palette with defined use cases, spacing and layout rules, and tone of voice guidance for how the business writes to customers. Without that system, a new logo just sits on top of the same inconsistency it was meant to fix."
+      },
+      {
+        "heading": "Why inconsistency quietly undermines trust",
+        "body": "A customer who sees a different visual style on your Instagram, your website, your invoices and your shop signage doesn't consciously register \"inconsistent branding\" — they register a faint, hard-to-name sense that the business feels less established than a competitor whose materials all look like they came from the same place. That perception affects willingness to pay premium pricing and to trust a business with a larger order, even when the underlying product is equally good."
+      },
+      {
+        "heading": "What a proper brand system actually delivers",
+        "body": "Beyond the logo: a defined colour palette (with primary, secondary and accent roles specified, not just \"our colours are purple and gold\"), typography choices for headings versus body text, templates for common needs like social posts and quotations, and guidance on tone — formal or casual, how the business talks about pricing, how it handles complaints publicly. Handed to anyone on the team, this system should let them produce on-brand materials without needing a designer for every piece."
+      },
+      {
+        "heading": "Rolling it out without disrupting an existing business",
+        "body": "A brand refresh doesn't need to happen everywhere at once. The practical order is usually: digital presence first (website and social, since they're fastest to update and most visible to new customers), then customer-facing documents like quotations and invoices, then physical materials like signage and packaging as they naturally come up for renewal rather than replacing everything immediately at extra cost."
+      },
+      {
+        "heading": "How ARTIXO ONE builds brand systems",
+        "body": "Our own ARTIXO brand identity — the dark glassmorphism look, the purple, magenta and coral palette — was built as a defined system before it was applied across products, which is why Glass Flow POS, ARTIXO STORE and our website all feel like the same company despite being different products. We build the same kind of system for clients, sized to what a growing business actually needs rather than an agency-scale package most small businesses don't need yet."
+      }
+    ]
+  },
+  {
+    "slug": "software-partner-checklist-for-fintech-startups",
+    "title": "What Small Fintech Startups Need From Their First Software Partner",
+    "category": "Fintech",
+    "excerpt": "The first software partner a fintech startup chooses shapes everything from security posture to how fast the product can adapt — here's what actually matters.",
+    "seoDescription": "A practical checklist for early-stage fintech startups choosing a software development partner — security, compliance awareness, and architecture that scales.",
+    "tags": ["Fintech", "Startups", "Software Development"],
+    "readingTime": "6 min read",
+    "publishedAt": null,
+    "sections": [
+      {
+        "heading": "Fintech software isn't \"software with extra rules\"",
+        "body": "It's tempting to treat a fintech product as a normal app that happens to move money, with compliance bolted on afterward. In practice, the constraints — audit trails, reconciliation accuracy, role-based access, data handling — need to be part of the architecture from day one, because retrofitting them into a system that wasn't designed with them in mind is far more expensive than building them in from the start."
+      },
+      {
+        "heading": "Security questions worth asking before signing anyone",
+        "body": "How is sensitive data encrypted, both in transit and at rest? Who on the team has access to production data, and is that access logged? How are role-based permissions enforced — at the database level, or only in the application code (the former is meaningfully more robust)? A partner who answers these specifically, rather than with a general reassurance, is signalling they've actually built systems like this before."
+      },
+      {
+        "heading": "Why reconciliation accuracy is the real technical bar",
+        "body": "Any fintech product will eventually face the question: do the numbers add up, exactly, every time, even after edge cases like partial refunds, failed transactions, or currency conversion? This is where a real ledger-style platform — the kind we built for a Colombo-based fintech client, moving them off spreadsheet-driven reconciliation onto a proper cloud-native ledger with automated daily reconciliation — earns its cost. It's also the hardest thing to bolt on after launch."
+      },
+      {
+        "heading": "Architecture decisions that are hard to reverse later",
+        "body": "Choosing a database that supports the audit and rollback guarantees financial data needs, deciding early how multi-currency or multi-account structures are modelled, and building role-based access control into the data layer rather than the UI are all decisions that are cheap to get right at the start and expensive to change once real transaction history exists on top of them."
+      },
+      {
+        "heading": "How ARTIXO ONE approaches fintech builds",
+        "body": "Our approach — demonstrated in the Ledger Point platform we built, with real-time transaction dashboards, automated reconciliation and bank-grade role-based security on a PostgreSQL data layer — treats these constraints as the starting architecture, not an add-on. For an early-stage fintech team choosing a first technical partner, the right question to ask us or anyone else is simply: show me a system you've built that had to get this right."
+      }
+    ]
+  },
+  {
+    "slug": "technology-opportunities-in-sri-lankan-agriculture",
+    "title": "Bringing Technology to Sri Lanka's Agriculture: Opportunities Beyond the Farm",
+    "category": "Agriculture",
+    "excerpt": "Agri-tech in Sri Lanka doesn't need to mean expensive imported hardware — a lot of the highest-value opportunity is in software that already fits how farms operate.",
+    "seoDescription": "Practical, software-driven agri-tech opportunities for Sri Lankan agriculture — from farm record-keeping to supply chain visibility — without expensive imported hardware.",
+    "tags": ["Agriculture", "Agri-tech", "Sri Lanka"],
+    "readingTime": "5 min read",
+    "publishedAt": null,
+    "sections": [
+      {
+        "heading": "Agri-tech is usually pitched as hardware — that's not where most farms need to start",
+        "body": "Drones, sensors and imported precision-farming equipment dominate the agri-tech conversation, but for most Sri Lankan farming operations, the more immediate opportunity is far simpler: software that tracks what's actually happening on the farm — planting dates, input costs, yields by plot, and machinery usage — replacing memory and scattered paper notes with a record that can actually inform next season's decisions."
+      },
+      {
+        "heading": "Where the real inefficiency usually lives",
+        "body": "Talk to any family agri-machinery or farming business and the same pattern shows up: knowledge about what worked, what a plot yielded last season, or which equipment is due for maintenance lives in one or two people's heads. That's fine until decisions need to be made without them, or until the business tries to scale past what one person can track mentally. A simple, well-designed record-keeping tool addresses this directly, with far less cost and complexity than sensor networks."
+      },
+      {
+        "heading": "Supply chain visibility is the next layer",
+        "body": "Beyond the farm itself, a lot of value gets lost in the gap between harvest and sale — knowing exactly what's ready, in what quantity, and matching that against buyer demand in something closer to real time than a phone call chain. Software that gives visibility across that gap, even something as straightforward as a shared inventory and order view, tends to reduce waste and improve pricing outcomes more than any single piece of field hardware would."
+      },
+      {
+        "heading": "Why this doesn't require a big-budget project",
+        "body": "The mistake many agri-tech pitches make is assuming a farm needs an enterprise platform on day one. In practice, a focused tool solving one real problem — plot-level record keeping, or a simple order-matching system between growers and buyers — delivers value immediately and can expand later, the same staged approach that works for any small business adopting software for the first time."
+      },
+      {
+        "heading": "Why this is a genuine area of focus for ARTIXO ONE",
+        "body": "Agriculture isn't an abstract market for us — it's part of where our own team's background sits, alongside family experience in paddy farming and machinery, which shapes how we think about what actually gets used versus what looks good in a pitch deck. If you're running a farming or agri-business operation and have been putting off digitizing records because it feels like a bigger project than it needs to be, that's usually a shorter conversation than expected."
+      }
+    ]
+  },
+  {
+    "slug": "multi-tenant-saas-for-logistics-startups",
+    "title": "How Multi-Tenant SaaS Architecture Helps Logistics Startups Scale Without Rebuilding",
+    "category": "Logistics & SaaS",
+    "excerpt": "A single-tenant MVP gets a logistics startup to its first customer — but it's the wrong foundation for the tenth.",
+    "seoDescription": "Why multi-tenant SaaS architecture matters for logistics startups scaling past their first few customers, and what to fix before growth makes it expensive.",
+    "tags": ["SaaS", "Logistics", "Startups"],
+    "readingTime": "6 min read",
+    "publishedAt": null,
+    "sections": [
+      {
+        "heading": "The MVP trap: built for one customer, sold to many",
+        "body": "Most logistics platforms start as a single-tenant build — one deployment, one configuration, built fast to prove the idea works with an early customer. That's a completely reasonable way to start. The problem shows up at customer number three or four, when each new signup needs its own manual setup, its own server configuration, and its own engineering attention just to go live."
+      },
+      {
+        "heading": "What \"multi-tenant\" actually means in practice",
+        "body": "A true multi-tenant platform lets a new customer onboard by filling out a form and configuring their own settings — no engineering ticket required. Behind the scenes, this means the data model, authentication and billing are all built to isolate each customer's data cleanly within a shared system, rather than spinning up a new instance of the whole application per customer."
+      },
+      {
+        "heading": "The re-architecture is real work — but it's a one-time cost",
+        "body": "Moving from single-tenant to multi-tenant isn't a small refactor; it touches the data layer, authentication, and often billing. But it's a cost paid once, after which every new customer's onboarding cost drops close to zero. Compare that to staying single-tenant and paying a growing engineering cost on every single new signup indefinitely — the math flips in favour of re-architecting earlier than most founders expect."
+      },
+      {
+        "heading": "Usage-based billing changes the growth conversation",
+        "body": "Multi-tenant architecture also opens the door to usage-based billing — customers pay based on actual usage rather than a flat negotiated rate — which tends to lower the barrier for a new customer to start (smaller initial commitment) while letting revenue grow naturally alongside their usage. This is hard to implement cleanly without the underlying multi-tenant data model already in place."
+      },
+      {
+        "heading": "How ARTIXO ONE approaches this transition",
+        "body": "We've taken exactly this journey with a Singapore logistics startup client — re-architecting their single-tenant MVP into a multi-tenant cloud platform with self-serve onboarding, usage-based billing and an admin console, so their team could bring on new customers without engineering involvement each time. If your platform is still one deployment away from your next ten customers costing you ten times the engineering effort, that's the conversation worth having before growth forces it."
+      }
+    ]
+  },
+  {
+    "slug": "why-small-businesses-need-a-website-in-2026",
+    "title": "Why Small and Medium Businesses in Sri Lanka Need a Website in 2026",
+    "category": "Small Business",
+    "excerpt": "Running a business entirely through Instagram and Facebook feels sufficient — until you look at what it's actually costing in lost customers.",
+    "seoDescription": "Why small and medium businesses relying only on social media need a proper website in 2026 — ownership, discoverability, and building customer trust.",
+    "tags": ["Small Business", "Web Development", "Sri Lanka"],
+    "readingTime": "5 min read",
+    "publishedAt": null,
+    "sections": [
+      {
+        "heading": "Social media is a storefront you don't own",
+        "body": "Many small businesses in Sri Lanka run entirely on Instagram or Facebook — posting products, taking orders through DMs. It works, until a platform changes its algorithm, restricts a feature, or the account has an issue with no clear path to resolve it. A website is the one piece of a business's online presence that the business actually owns and controls, independent of any platform's decisions."
+      },
+      {
+        "heading": "What a website does that social media can't",
+        "body": "Search visibility is the biggest gap — someone searching Google for exactly what your business sells will rarely find an Instagram-only business, because search engines can't index a feed of photos the way they can index a properly built website. A website also lets a customer browse a full catalogue, place an order, or make a booking without waiting for a DM reply, at any hour."
+      },
+      {
+        "heading": "It doesn't replace social media — it completes it",
+        "body": "The businesses getting the most value from being online aren't choosing between social media and a website; they're using social media for discovery and daily engagement, and a website as the destination that converts that attention into an actual order, with clear pricing, an order system, and a way to reach the business directly. Each channel does a job the other doesn't do well."
+      },
+      {
+        "heading": "What actually needs to be in a first website",
+        "body": "It doesn't need to be elaborate to be effective: clear information about what the business sells, real pricing or a way to request a quote, a simple order or booking system if the business takes orders, and basic SEO — page titles, descriptions, and a sitemap — so search engines can actually find and rank it. A website that does these things well outperforms an elaborate one missing them."
+      },
+      {
+        "heading": "How ARTIXO ONE builds websites for small businesses",
+        "body": "We've built exactly this kind of website and order system for Instagram- and Facebook-based fashion and retail businesses looking to add a proper online presence on top of their existing social following, rather than replacing it. If your business currently exists only as a social media page, a website is usually a smaller and faster project than owners expect — and it's one of the highest-leverage upgrades a small business can make this year."
+      }
+    ]
+  }
+]
