@@ -39,7 +39,23 @@ const CASE_STUDY_ENTRIES: Entry[] = slugs.map((slug) => ({
   priority: "0.7",
 }));
 
-const entries = [...HOME_SECTIONS, ...CASE_STUDY_ENTRIES];
+// Blog data is plain JSON, so it can be read directly — no regex needed.
+type BlogPostRecord = { slug: string; publishedAt: string | null };
+const blogPosts = JSON.parse(
+  readFileSync(resolve(import.meta.dirname, "../src/data/blog-posts-data.json"), "utf-8"),
+) as BlogPostRecord[];
+const publishedBlogSlugs = blogPosts.filter((p) => p.publishedAt).map((p) => p.slug);
+
+const BLOG_ENTRIES: Entry[] = [
+  { path: "/blog", changefreq: "weekly", priority: "0.8" },
+  ...publishedBlogSlugs.map((slug) => ({
+    path: `/blog/${slug}`,
+    changefreq: "monthly" as const,
+    priority: "0.6",
+  })),
+];
+
+const entries = [...HOME_SECTIONS, ...CASE_STUDY_ENTRIES, ...BLOG_ENTRIES];
 
 const urlset = entries
   .map(
